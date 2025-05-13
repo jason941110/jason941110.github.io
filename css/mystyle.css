@@ -1,0 +1,53 @@
+p{
+    color: black;
+}
+
+.conan{
+    background-color: antiquewhite;
+}
+.conan2{
+    background-color: bisque;
+}
+.conan3{
+    background-color: beige;
+}
+
+a.jasonlink{
+    padding: 0px 30px;
+    margin-left: 10px;
+    border-radius: 50px;
+    color: cadetblue;
+}
+
+a.jasonlink:hover{
+    background-color: gray;
+    color:beige  
+}
+
+div.jasondivgray{
+    background-color: rgb(169, 182, 185);
+    padding: 30px;
+    border-radius: 10;
+    border:1px solid black;
+    width: 95%;
+    
+    
+    
+}
+
+h4.jasonsmallh4{
+    font-size: 18px;
+    color: black;
+}
+
+.table-andyblue{
+    background-color: aquamarine;
+}
+
+.jasoncrop{
+    height: 300px;
+    overflow: hidden;
+    margin: 10px 5px;
+    object-fit: cover;
+    border-radius: 50px;
+}
