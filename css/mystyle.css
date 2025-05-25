@@ -82,8 +82,9 @@ section{
 
 .list-group-itemactive{
     background-color: orange;
-    font-weight: 100;
+    font-weight: 200;
 }
  .subheading mb-3{
-    background-color: aliceblue;
+    background-color: red;
 }
+
