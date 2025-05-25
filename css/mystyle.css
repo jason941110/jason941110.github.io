@@ -54,5 +54,36 @@ h4.jasonsmallh4{
 
 .jasonserif{  
     font-family: "Noto Serif TC", serif;
+}
 
+.jasoncenter{
+    text-align: center;
+}
+
+.jasonhl{
+    color: red;
+    font-weight: 900;
+}
+
+.jasonbg{
+    background-image: url(/assets/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section{
+    background-color: aliceblue;
+    background-image: url(/assets/img/bg.jpg);
+}
+
+.list-group-item{
+   background-color: white;
+}
+
+.list-group-itemactive{
+    background-color: orange;
+    font-weight: 100;
+}
+ .subheading mb-3{
+    background-color: aliceblue;
 }
