@@ -92,3 +92,11 @@ section{
     font-size: larger;
 }
 
+.jasonhandsome{
+    background-image:url("../assets/img/jasongood.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    
+}
+
