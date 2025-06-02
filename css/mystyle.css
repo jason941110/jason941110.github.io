@@ -54,6 +54,7 @@ h4.jasonsmallh4{
 
 .jasonserif{  
     font-family: "Noto Serif TC", serif;
+    color: black;
 }
 
 .jasoncenter{
@@ -96,7 +97,7 @@ section{
     background-image:url("../assets/img/jasongoodbg.jpg");
     background-size: cover;
     background-repeat:no-repeat;
-    background-attachment: fixed;
+    background-attachment:scroll;
     
 }
 
